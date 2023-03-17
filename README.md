@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 
 # wcs-git-quest-5
 
